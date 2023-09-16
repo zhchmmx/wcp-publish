@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wcp>
+    <displayname>We Capture</displayname>
+    <version>9.0.0</version>
+    <intro>原名 Captura
+录制屏幕。
+注意：本软件的运行需要 FFmpeg，请从互联网下载 FFmpeg 的 Windows 构建版本，并将其存储于一定的目录，再在 We Capture 中设置对应路径，即可正常执行屏幕录制等操作。</intro>
+    <comment>本软件由开源软件 Captura 二次开发，现由 We Apps 维护。
+从这个版本开始，We Apps 将负责 We Capture (原 Captura) 的维护，但无特殊说明，不为其添加新功能。</comment>
+    <icon>wcp.png</icon>
+    <getlink>https://gitee.com/zhchmmx/wcp-publish</getlink>
+    <enabled>true</enabled>
+    <openfile>captura.exe</openfile>
+</wcp>
